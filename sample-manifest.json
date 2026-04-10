@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9efb1366-4ed0-4d1a-b090-ec73e340ad6d",
+  "id_short": 190244,
+  "published_at": "2026-04-10T19:29:35Z",
+  "repo_name": "white-space-finder-in-pacific-northwest-states-us-sample-190244",
+  "sample_asset_name": "beamstation_190244_food_and_drink-xx-all_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/190244/beamstation_190244_food_and_drink-xx-all_SAMPLE_DIST.csv",
+  "sample_records": 7,
+  "sample_sha256": "b2feddcbf57e6f5ea66308430b4c097a4afd2a9fef8b6cd93dd574879bc19887",
+  "sample_size_bytes": 41786,
+  "total_records": 79
+}
