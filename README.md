@@ -1,6 +1,6 @@
 # White Space Finder in Pacific Northwest States, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `190244` |
 | Location | Pacific Northwest States |
 | Category | Restaurants |
-| Full dataset size | 63 records |
-| Free sample size | 6 records (9.52%) |
-| Last export | 2026-04-23T11:40:30.696320+00:00 |
+| Full dataset size | 89 records |
+| Free sample size | 8 records (8.99%) |
+| Last export | 2026-04-30T12:03:44.910595+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-pacific-northwest-states-us-sample-190244/releases/download/sample-latest/beamstation_190244_food_and_drink-xx-all_SAMPLE_DIST.csv) |
 
 ## What is in this sample
